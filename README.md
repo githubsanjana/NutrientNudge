@@ -23,4 +23,4 @@ NutrientNudge is an all-in-one health and fitness tracking website designed to p
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/NutrientNudge.git
+   https://github.com/githubsanjana/NutrientNudge.git
